@@ -1,0 +1,12 @@
+Unity 仪表面板测试
+
+当A继承MonoBehaviour A中public 可以显示在Inspector面板
+当B继承自A，B的public Enum类型可以显示，但其他类型的变量无法显示
+
+[HideInInspector] 在Inspector隐藏
+
+[SerializeField] Inspector面板保存数据
+private int a;
+
+
+
